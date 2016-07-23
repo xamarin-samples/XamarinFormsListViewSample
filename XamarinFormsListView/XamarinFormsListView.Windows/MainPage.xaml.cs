@@ -15,13 +15,13 @@ using Windows.UI.Xaml.Navigation;
 
 namespace XamarinFormsListView.Windows
 {
-	public sealed partial class MainPage
-	{
-		public MainPage()
-		{
-			this.InitializeComponent();
+    public sealed partial class MainPage
+    {
+        public MainPage()
+        {
+            this.InitializeComponent();
 
-			LoadApplication(new XamarinFormsListView.App());
-		}
-	}
+            LoadApplication(new XamarinFormsListView.App());
+        }
+    }
 }
