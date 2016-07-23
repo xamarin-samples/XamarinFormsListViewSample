@@ -38,7 +38,7 @@ namespace XamarinFormsListView
                         OutlineColor = new Color(1.0, 0.0, 0.0), // 赤枠
                         BackgroundColor=new Color(1.0, 0.8, 0.8), // ピンク背景
                         Content = new Label {
-                            Text = "Hello ContentPage!!!!!!!!!",
+                            Text = "ListView sample",
                             TextColor =new Color(0.0,0.0,0.0) // 黒文字
                         }
                     },
