@@ -5,7 +5,7 @@ Sample: Using ListView on Xamarin.Forms
 - [Xamarin.FormsでListViewコントロールを使用するには？ - Build Insider](http://www.buildinsider.net/mobile/xamarintips/0038)
 
 ## Pickuped code
-### Page1.cs
+### [Page1.cs](XamarinFormsListView/XamarinFormsListView/Page1.cs)
 ```
 public class Page1 : ContentPage
 {
